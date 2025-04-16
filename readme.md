@@ -1,6 +1,12 @@
 # Cài đặt:
 
-#### Yêu cầu máy cài python
+#### Yêu cầu máy cài python, git
+
+1. clone code
+```
+git clone https://github.com/FitHanuSpecialSubject/plot-fitness-ga-app.git
+cd plot-fitness-ga-app
+```
 
 # Hướng dẫn sử dụng
 
