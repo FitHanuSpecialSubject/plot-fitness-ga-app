@@ -1,0 +1,5 @@
+# Ignore all .png files in data/
+result-images/*.png
+
+# Ignore all .xlsx files in data/
+source-excel-files/*.xlsx
